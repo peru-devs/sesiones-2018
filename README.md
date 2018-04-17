@@ -16,4 +16,5 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 
 ## Sesiones
 
-- __Sesión 1:__ [Introducción a Javascript ES6 (ECMAScript 2015)](./sesiones/01.md) - 14/04/2018
+- __Sesión 1:__ [Introducción a Javascript ES6 (ECMAScript 2015) - parte 1](./sesiones/01.md) - 14/04/2018
+- __Sesión 2:__ [Introducción a Javascript ES6 (ECMAScript 2015) - parte 2](./sesiones/02.md) - 28/04/2018
