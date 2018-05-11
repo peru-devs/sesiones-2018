@@ -1,4 +1,4 @@
-# Sesiones TI 2017
+# Sesiones TI 2018
 > Webinars sobre TI para el año 2018 :peru::octocat:
 
 ![Github yes we code image](https://user-images.githubusercontent.com/1700322/38487329-0706ad9e-3be0-11e8-8c1a-63a52516c6b2.png)
@@ -18,3 +18,4 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 
 - __Sesión 1:__ [Introducción a Javascript ES6 (ECMAScript 2015) - parte 1](./sesiones/01.md) - 14/04/2018
 - __Sesión 2:__ [Introducción a Javascript ES6 (ECMAScript 2015) - parte 2](./sesiones/02.md) - 28/04/2018
+- __Sesión 3:__ [Introducción a NodeJS](./sesiones/03.md) - 12/05/2018
